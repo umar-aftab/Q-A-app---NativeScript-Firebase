@@ -1,0 +1,12 @@
+<Page loaded="pageLoaded"> 
+    <ActionBar title="Islam - Question & Answer - App"></ActionBar>
+    <FlexboxLayout>
+    	<StackLayout class="form">
+    		<TextField class="input input-border" hint="" id="question" text="{{ question }}"/>
+    		<Button class="btn btn-primary" text="Look Up!" tap="lookup"></Button>
+    		<TextView hint="" width="300" class="input input-border" id="answer" text="{{ answer }}" editable="false"></TextView>
+    	</StackLayout>	
+
+    </FlexboxLayout>	
+</Page>
+ 

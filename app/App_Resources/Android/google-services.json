@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883386124520",
+    "firebase_url": "https://islaamicdaawah-a8a07.firebaseio.com",
+    "project_id": "islaamicdaawah-a8a07",
+    "storage_bucket": "islaamicdaawah-a8a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883386124520:android:5202a9d00c68a624",
+        "android_client_info": {
+          "package_name": "org.nativescript.Islaam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883386124520-prmnm4p0obh2d1tfqnilkisqqrvkbqld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdlNFbfvENDpfkP-HC8bHxUvoR3vJTNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883386124520-prmnm4p0obh2d1tfqnilkisqqrvkbqld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
